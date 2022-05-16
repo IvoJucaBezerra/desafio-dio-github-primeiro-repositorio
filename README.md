@@ -4,6 +4,8 @@
 ## Links Úteis
 * [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
 
+* [Baixar o Git](https://git-scm.com/downloads)
+
 * [Site da DIO - Digital Innovation One](https://web.dio.me/home)
 
 * [Baixar APP da DIO para ANDROID](https://play.google.com/store/apps/details?id=one.digitalinnovation.app&hl=pt_BR&gl=US)
